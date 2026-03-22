@@ -50,27 +50,23 @@ https://yoomoney.ru/fundraise/1GI49BD2R2K.260317
 
 # 👻 Casper Game Filter
 
-Interactive camera filter game with animated ghost (Casper-style).  
-Designed for real-time use with webcam: effects, presets, and dynamic gameplay elements.
-
----
-
-## 🎥 Demo
-(Add GIF or video here — this is critical)
+Interactive desktop screen filter application for games with animated visual effects (Casper-style).  
+Designed to enhance colors, brightness, and atmosphere directly on your screen in real time.
 
 ---
 
 ## 🚀 Features
 
-- Real-time camera filter  
-- Animated ghost (Casper-style)  
-- Game-like interaction  
-- Adjustable filters (sliders & presets)  
-- Save custom templates  
-- Hotkeys support  
-- Quick presets: Standard / Brighter / Darker  
-- Auto-updates  
-- Multi-language (RU / EN)  
+- 💻 Desktop application (Windows)
+- 🎮 Designed for games and screen usage
+- 🎨 Real-time screen color filters
+- 👻 Visual ghost-style effects
+- 🎚 Adjustable filters (sliders & presets)
+- 💾 Save custom profiles
+- ⌨️ Hotkeys support
+- 🌗 Quick presets: Standard / Brighter / Darker
+- 🔄 Auto-updates
+- 🌍 Multi-language (RU / EN)
 
 ---
 
@@ -85,7 +81,7 @@ Designed for real-time use with webcam: effects, presets, and dynamic gameplay e
 
 ## 🔑 License
 
-This is a commercial product.  
+This is a commercial desktop software.
 
 To use full functionality, a license key is required.  
 For access or purchase — contact below.  
@@ -95,16 +91,24 @@ For access or purchase — contact below.
 ## 📥 Quick Start
 
 1. Run CasperGameFilter  
-2. Adjust filters using sliders  
-3. Save your preset  
-4. Assign hotkeys if needed  
+2. Adjust screen filters using sliders  
+3. Save your profile  
+4. Use while gaming or working  
+
+---
+
+## 🎮 Usage
+
+- Improve visibility in games  
+- Adjust brightness and colors in real-time  
+- Create custom visual styles for gameplay  
 
 ---
 
 ## ⌨️ Hotkeys
 
 - Open window from tray via custom key  
-- Assign separate hotkeys for templates  
+- Assign separate hotkeys for profiles  
 
 ---
 
@@ -140,11 +144,11 @@ For access or purchase — contact below.
 
 ## 📞 Contact / Purchase
 
-Telegram: (t.me/GCranK)  
+Telegram: https://t.me/GCranK  
 Donate: https://yoomoney.ru/fundraise/1GI49BD2R2K.260317  
 
 ---
 
 ## 🔍 Keywords
 
-casper filter, ghost filter, ar filter, face filter, camera game, webcam filter, halloween filter
+screen filter, desktop color filter, game filter, gaming color correction, monitor filter, brightness control, pc visual filter, night mode alternative, color enhancement
