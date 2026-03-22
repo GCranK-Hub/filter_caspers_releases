@@ -151,4 +151,4 @@ Donate: https://yoomoney.ru/fundraise/1GI49BD2R2K.260317
 
 ## 🔍 Keywords
 
-screen filter, desktop color filter, game filter, gaming color correction, monitor filter, brightness control, pc visual filter, night mode alternative, color enhancement, pubg, war zone, arc raiders
+screen filter, desktop color filter, game filter, gaming color correction, monitor filter, brightness control, pc visual filter, night mode alternative, color enhancement, pubg, war zone, arc raiders, cs go
