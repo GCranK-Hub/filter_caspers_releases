@@ -4,7 +4,7 @@
 
 ## 🇷🇺 Русский
 
-# Casper Game Filter
+# 👻 Casper Game Filter
 
 ## 🚀 Быстрый старт
 1. Запусти CasperGameFilter
